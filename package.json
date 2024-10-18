@@ -6,10 +6,30 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["telegram", "bot", "library"],
-  "author": "asrv",
-  "license": "ISC",
+  "files": [
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
   "dependencies": {
     "node-fetch": "^2.6.7"
-  }
+  },
+  "engines": {
+    "node": ">=16.14.0"
+  },
+  "author": "asrv",
+  "license": "ISC",
+  "keywords": [
+    "telegram",
+    "bot",
+    "library"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ditt12/telsra.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ditt12/telsra/issues"
+  },
+  "homepage": "https://github.com/ditt12/telsra#readme"
 }
