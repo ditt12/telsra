@@ -12,7 +12,6 @@
     "LICENSE"
   ],
   "dependencies": {
-    "telsra": "^1.0.0",
     "node-fetch": "^2.6.7"
   },
   "engines": {
