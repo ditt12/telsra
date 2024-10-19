@@ -9,7 +9,7 @@ bot.startPolling((update) => {
         const text = update.message.text;
 
         if (text === '/start') {
-            bot.sendMessage(chatId, 'Welcome to My Telegram Bot!');
+            bot.sendMessage(chatId, 'Welcome to the telegram bot, this telegram bot uses the telsra@1.0.0 library');
         }
     } else {
         console.log("Received update without message:", update);
