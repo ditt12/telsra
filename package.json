@@ -18,7 +18,7 @@
     "node": ">=16.14.0"
   },
   "author": "asrv",
-  "license": "MIT",
+  "license": "ISC",
   "keywords": [
     "telegram",
     "bot",
