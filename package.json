@@ -1,0 +1,36 @@
+{
+  "name": "telsra",
+  "version": "1.0.5",
+  "description": "A simple Telegram bot library",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "telsra": "^1.0.1"
+  },
+  "engines": {
+    "node": ">=16.14.0"
+  },
+  "author": "asrv",
+  "license": "MIT",
+  "keywords": [
+    "telegram",
+    "bot",
+    "library"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ditt12/telsra.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ditt12/telsra/issues"
+  },
+  "homepage": "https://github.com/ditt12/telsra#readme"
+}
